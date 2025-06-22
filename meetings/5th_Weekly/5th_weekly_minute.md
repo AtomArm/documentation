@@ -1,44 +1,33 @@
 
-# ATA DA Xª REUNIÃO DO GRUPO DE INICIAÇÃO CIENTÍFICA – BRAÇO ROBÓTICO
+# ATA DA 5ª REUNIÃO DO GRUPO DE INICIAÇÃO CIENTÍFICA – BRAÇO ROBÓTICO
 
-**Data da Reunião:** xx de mes de 202X  
+**Data da Reunião:** 15 de maio de 2025
 
 ---
 
 ## Pautas Discutidas
 
-1. **Pauta1**
-   - Item 1
-   - Item 2
-   - ...
+1. **Atualização das 'tasks'**
+   - Organização e atualização do estado das tarefas: Readme(docs) e ATAs de reuniões passadas.
 
-2. **Pauta2**
-   - Item 1
-   - Item 2
-   - ...
+2. **Ampliação do projeto**
+   - Comentários sobre adimissão de novos membros, visando beneficiar o processo e o resultado do projeto.
 
-3. **Pauta3**
-   - Item 1
-   - Item 2
-   - ...
-   
-...
+3. **Documentação**
+   - Definição do inglês como idioma padrão para documentações, com foco na publicação e universalização do projeto.
+
+4. **Latex**
+   - Apresentação do LATEX como linguagem padrão para melhor documentação do projeto.
+
 ---
 
 ## Encaminhamentos
 
-- **Encaminhamento 1**
-   - Responsável: Nome do Responsável
-   - Prazo: Data Limite
-   - Descrição: Descrição do encaminhamento
-
-- **Encaminhamento 2**
-   - Responsável: Nome do Responsável
-   - Prazo: Data Limite
-   - Descrição: Descrição do encaminhamento
+   - Manter o padrão de documentação em inglês.
+   - Adiantamento do processo prático e impressões 3D.
 
 ---
 
 ## Observações Finais
 
-- 
+- A 5ª reunião teve como foco a organização das tarefas, apresentação da linguagem LATEX e indicação para uso na documentação do projeto e a padronização do idioma utilizado em documentações, sendo inglês o idioma definido.
