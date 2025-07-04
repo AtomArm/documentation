@@ -19,11 +19,11 @@
       - Quais são as próximas etapas e entregas planejadas.
       - Informações sobre as peças que já foram adquiridas e as que ainda estão pendentes.
       - Falta de alguns componentes eletrônicos e mecânicos, como ESP32 e sensores.
-      - Impressão das peças mecânicas do braço robótico, que já está quase concluída e deve ser finalizada em breve. Além disso o professor Ricardo Luiz Freitas mencionou que deve entregar as peças impressas na próxima semana.
+      - Impressão das peças mecânicas do braço robótico, que já está quase concluída e deve ser finalizada em breve. Além disso, o professor Ricardo Luiz Freitas informou que entregará as peças impressas na próxima semana.
 <br>
 
 ### 2. **Questão sobre a Escolha do Micro-Controlador Arduino**
-   O Professor **Marden Cicarelli** levantou a questão sobre a escohla do micro-controlador Arduino UNO, que é uma plataforma de prototipagem eletrônica de código aberto. Trazenbdo a tona sobre se seria suficiente para o projeto ou se seria necessário um micro-controlador mais avançado, como o ESP32, que possui conectividade Wi-Fi e Bluetooth integradas, além de mais recursos de processamento.
+   O Professor **Marden Cicarelli** levantou a questão sobre a escolha do micro-controlador Arduino UNO, que é uma plataforma de prototipagem eletrônica de código aberto. Trazendo à tona sobre se seria suficiente para o projeto ou se seria necessário um micro-controlador mais avançado, como o ESP32, que possui conectividade Wi-Fi e Bluetooth integradas, além de mais recursos de processamento.
 
    Além disso, o professor se ofereceu a doar um ESP32 para o projeto. A equipe discutiu as vantagens e desvantagens de cada opção, considerando a complexidade do projeto e as necessidades de conectividade.
 
@@ -49,7 +49,7 @@
 
    O Responsável pela redação do artigo será o Coordenador Geral do projeto, **Enzo Ribas**, supervisionado pelo Orientador **Dr. Presleyson Lima** e os demais membros da equipe contribuirão com seções específicas, conforme suas áreas de especialização, e na pesquisa bibliográfica necessária.
    
-   Foi definido para que comece a pesquisa bibliográfica dos artigos científicos relacionados ao tema do projeto, para embasar a redação do artigo. Cada membro da equipe deve pesquisar um artigo científico relevante e trazer suas contribuições para a discussão em um resumo na próxima Reunião. Para isso, foram definidas as seguintes tarefas:
+   Foi definido para que comece a pesquisa bibliográfica dos artigos científicos relacionados ao tema do projeto, para embasar a redação do artigo. Todos os membros devem apresentar um breve resumo de suas pesquisas na próxima reunião, para embasar as seções do artigo científico. Para isso, foram definidas as seguintes tarefas:
 
    - Pesquisar sobre o uso de braços robóticos em aplicações industriais e acadêmicas.
    - Investigar as tecnologias de visão computacional aplicadas a braços robóticos.
@@ -86,7 +86,7 @@
       - Concluir a documentação das atas de reuniões anteriores, incluindo a 5ª e 7ª reuniões.
          - **Responsáveis**: Carlos Eduardo Lopes Caetano, Nicolas Garcia.
       
-      - Concluir a documentação do projeto, incluindo o README.md de Hardware e Software e as diretrizes de contribuição.
+      - Concluir a documentação do projeto, incluindo o README.md de Hardware e Software e as diretrizes para contribuição.
          - **Responsáveis**: Pedro Lucas Vieira Ramalho, Lucas Weiss Telles de Matos, Enzo Ribas.
 
       - Revisar e atualizar a documentação feita pelos membros da equipe, garantindo que todas as informações estejam corretas e atualizadas.
