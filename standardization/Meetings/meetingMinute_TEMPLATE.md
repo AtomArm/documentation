@@ -14,22 +14,25 @@ Exemplo:
 **Data da Reunião:** xx de mes de 202X  
 
 **Membros Presentes:**
+- Nome do Membro 1
+- Nome do Membro 2
+
 
 ---
 
 ## Pautas Discutidas
 
-1. **Pauta1**
+### 1. **Pauta1**
    - Item 1
    - Item 2
    - ...
 
-2. **Pauta2**
+### 2. **Pauta2**
    - Item 1
    - Item 2
    - ...
 
-3. **Pauta3**
+### 3. **Pauta3**
    - Item 1
    - Item 2
    - ...
@@ -53,4 +56,8 @@ Exemplo:
 
 ## Observações Finais
 
-- 
+
+---
+
+📁 *Arquivo registrado em:* `meetings\xth_Weekly\xth_weekly_minute.md`  
+> ✍️ *Responsável por este Documento:* **Nome** – 0x/0x/202x
