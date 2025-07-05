@@ -1,0 +1,54 @@
+# ATA DA 7ª REUNIÃO DO GRUPO DE INICIAÇÃO CIENTÍFICA – BRAÇO ROBÓTICO
+
+**Data da Reunião:** 31 de maio de 2025  
+
+**Participantes Presentes:**  
+- Eduardo Amaral  
+- Ricardo de Freitas  
+- João Ramalho  
+- Pedro Ramalho  
+- Nicolas Garcia  
+- Carlos Caetano  
+
+---
+
+## Pautas Discutidas
+
+1. **Padronização do Uso do GitHub**
+   - Instruções sobre o funcionamento de **pull requests**, revisão de código e fluxo de trabalho colaborativo.
+   - Orientações sobre a estrutura de **workflow no GitHub**, incluindo branches específicas para features, documentação e correções.
+   - Explicações sobre a **atribuição de funções e permissões no repositório**, com base nos papéis definidos anteriormente via SCRUM.
+   - Definição de **nomenclatura padronizada** para funções, branches e commits no repositório.
+
+2. **Organização da Documentação Técnica**
+   - Continuidade da estruturação da documentação técnica no GitHub.
+   - Distribuição inicial de tarefas relacionadas à documentação entre os membros, com acompanhamento via issues e quadro Kanban.
+   - Reforço sobre a necessidade de clareza, padronização e atualização constante dos documentos.
+
+3. **Aquisição de Componentes**
+   - Atualização sobre o andamento do processo de compras dos componentes restantes para o braço robótico ATOM.
+   - Discussão sobre prazos para recebimento e início da integração dos novos materiais ao projeto.
+
+4. **Planejamento para Próximas Reuniões**
+   - Definido que as próximas reuniões acompanharão o andamento das tarefas documentais no GitHub.
+   - Verificação da chegada dos componentes e definição de marcos de integração para os testes práticos.
+
+---
+
+## Encaminhamentos
+
+- ✅ Criar e disponibilizar guia de boas práticas no GitHub com instruções sobre pull requests, estrutura de branches e nomenclatura de commits.
+- ✅ Atribuir funções e tarefas no repositório, com base nas responsabilidades dos membros no SCRUM.
+- 🔜 Finalizar o processo de compras de componentes até a próxima reunião.
+- 🔜 Manter a documentação atualizada com base nas tarefas atribuídas e organizar o progresso via Kanban.
+
+---
+
+## Observações Finais
+
+A reunião foi voltada à consolidação do uso profissional do GitHub como ferramenta de organização, versionamento e colaboração no projeto ATOM. O domínio da plataforma é essencial para garantir rastreabilidade e produtividade nas próximas fases do desenvolvimento. A expectativa é que os novos componentes impulsionem o progresso técnico, especialmente na integração de hardware e documentação estruturada.
+
+---
+
+📁 *Arquivo registrado em:* `docs/atas/ata_07.md`  
+✍️ *Responsável pela documentação:* Carlos Eduardo Lopes Caetano – 31/05/2025
