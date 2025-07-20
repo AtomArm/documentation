@@ -7,6 +7,7 @@
 | EL013  | Graxa de Silicone (100g)        | 0         | pote    | -   | ❌ Fora de estoque |                              |
 | EL016  | Modulo Buzzer Passivo                           | 0         | unid.   | -   | ❌ Fora de estoque |          |
 | EL015  | Microphone Sound Sensor KY-038  | 0         | unid.   | -   | ❌ Fora de estoque |          |  
+| EL017  | ESP32-CAM               | 0         | unid.   | -   | ❌ Fora de estoque |          |
 | UT001  | 8mmx8cm Parafuso                | 10        | unid.   | -   | ❌ Fora de Estoque |                      |
 | UT002  | 8mmx4cm Parafuso                | 10        | unid.   | -   | ❌ Fora de Estoque |                      |
 | UT003  | 8mmx6cm Parafuso                | 10        | unid.   | -   | ❌ Fora de Estoque |                      |
