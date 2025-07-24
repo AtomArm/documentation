@@ -1,4 +1,4 @@
-## Lista de Peças Impressas
+## Lista de Peças a serem Impressas
 
 - CableHoaderWrist v5
 - LeftCableHoaderWrist v5
