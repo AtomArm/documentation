@@ -15,6 +15,8 @@
 
 ## 📋 Tabela de Itens
 
+### Eletronicos
+
 | Código | Componente Eletrônicos e Utilitários | Quantidade | Unidade | Local Armazenado     | Status       | Observações   |
 |--------|--------------------------|------------|---------|-------|---------|--------|
 | EL001  | Servo Motor MG996R        | 5 | unid.   | Caixa A   | ✅ Disponível |                        |
@@ -32,12 +34,19 @@
 | EL013  | Graxa de Silicone (100g)        | 0         | pote    | -   | ❌ Fora de estoque |                              |
 | EL014  | Linha de Pesca Trançada (300 m) | 1         | rolo    | -   | ✅ Disponível |                      |
 | EL015  | Cabo USB Tipo A/B         | 1         | unid.   | Caixa A   | ✅ Disponível |                      |
+
+### Utilitários
+
+| Código | Utilitários e Peças de Montagem | Quantidade | Unidade | Local Armazenado     | Status       | Observações   |
+|--------|--------------------------|------------|---------|-------|---------|--------|
 | UT001  | 8mmx8cm Parafuso                | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT002  | 8mmx4cm Parafuso               | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT003  | 8mmx6cm Parafuso               | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT004  | 3mmx2cm Parafuso               | 40        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT005  | Cavilhas 3mmx2cm               | 50        | unid.   | -         | ❌ Fora de Estoque |    Para substituir o item UT004                  |
 
+
+### Peças 3D
 
 | Código | Peças 3D         | Quantidade | Unidade | Local Armazenado     | Status       | Observações   |
 |--------|--------------------------|------------|---------|-------|---------|--------|
