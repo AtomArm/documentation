@@ -23,17 +23,9 @@
 | EL002  | Sensor Shield V5              | 1         | unid.   | Caixa A   | ✅ Disponível |        |
 | EL003  | Arduino Uno R3                  | 1         | unid.   | Caixa A   | ✅ Disponível |          |
 | EL005  | Sensor Ultrassônico HC-SR04     | 1         | unid.   | Caixa A   | ✅ Disponível |                     |
-| EL006  | Filamento PLA 3mm (1kg)         | 1         | rolo    | -   | ✅ Disponível |                |
-| EL012  | Alicate de Precisão             | 1         | unid.   | Caixa de Ferramentas | ✅ Disponível |                |
-| EL014  | Linha de Pesca Trançada (300 m) | 1         | rolo    | -   | ✅ Disponível |                      |
 | EL015  | Cabo USB Tipo A/B         | 1         | unid.   | Caixa A   | ✅ Disponível |                      |
 | EL004  | ESP32                           | 0         | unid.   | -   | ❌ Fora de estoque |          |
-| EL007  | Parafusos M8 (3 tipos)          | 0         | kit     | -   | ❌ Fora de estoque |                        |
-| EL008  | Parafusos M3 x 20mm (kit)       | 0         | kit     | -   | ❌ Fora de estoque |                    |
-| EL009  | Super Bonder Loctite            | 0         | unid.   | -   | ❌ Fora de estoque |                           |
-| EL010  | Adesivo Termofusível (kit)      | 0         | kit     | -  | ❌ Fora de estoque |                              |
-| EL011  | Acetona (500ml)                 | 0         | frasco  | Armário   | ❌ Fora de estoque |                         |
-| EL013  | Graxa de Silicone (100g)        | 0         | pote    | -   | ❌ Fora de estoque |                              |
+
 
 ### Utilitários
 
@@ -44,6 +36,15 @@
 | UT003  | 8mmx6cm Parafuso               | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT004  | 3mmx2cm Parafuso               | 40        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT005  | Cavilhas 3mmx2cm               | 50        | unid.   | -         | ❌ Fora de Estoque |    Para substituir o item UT004                  |
+| UT006  | Filamento PLA 3mm (1kg)         | 1         | rolo    | -   | ✅ Disponível |                |
+| UT012  | Alicate de Precisão             | 1         | unid.   | Caixa de Ferramentas | ✅ Disponível |                |
+| UT014  | Linha de Pesca Trançada (300 m) | 1         | rolo    | -   | ✅ Disponível |                      |
+| UT007  | Parafusos M8 (3 tipos)          | 0         | kit     | -   | ❌ Fora de estoque |                        |
+| UT008  | Parafusos M3 x 20mm (kit)       | 0         | kit     | -   | ❌ Fora de estoque |                    |
+| UT009  | Super Bonder Loctite            | 0         | unid.   | -   | ❌ Fora de estoque |                           |
+| UT010  | Adesivo Termofusível (kit)      | 0         | kit     | -  | ❌ Fora de estoque |                              |
+| UT011  | Acetona (500ml)                 | 0         | frasco  | Armário   | ❌ Fora de estoque |                         |
+| UT013  | Graxa de Silicone (100g)        | 0         | pote    | -   | ❌ Fora de estoque |                              |
 
 
 ### Peças 3D
