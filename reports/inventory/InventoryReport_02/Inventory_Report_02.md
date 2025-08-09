@@ -33,6 +33,7 @@
 | EL011  | Raspberry Pi Zero 2 W | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado como microcontrolador principal |
 | EL012  | Placa de Extensão T GPIO para Raspberry Pi + Cabo 40 Pinos - Azul | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para expandir os pinos GPIO do Raspberry Pi |
 | EL013  | Acelerômetro e Giroscópio 3 Eixos 6 DOF MPU-6050 - GY-521 | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para detecção de movimento e orientação |
+| EL014  | Conversor de Nível Lógico 3,3-5V Bidirecional 8 Canais | 1 | unid. | Caixa A | ❌ Fora de estoque | Utilizado para comunicação entre dispositivos de diferentes níveis lógicos |
 
 
 ### Utilitários
