@@ -14,10 +14,10 @@
 | EL008   | Módulo Conversor USB 2.0 para TTL CH340G - 6 PINOS                | 1    | 15,00              |
 | EL009   | Módulo Sensor de Corrente 20A                                     | 1    | 15,00              |
 | EL010   | Conversor de Nível Lógico 3.3V-5V Bidirecional - 4 Canais         | 4    | 28,00 (7,00 cada)  |
+| EL014   | Conversor de Nível Lógico 3,3-5V Bidirecional 8 Canais            | 1    | 29,95 (17,95 + 12) |
 | EL011   | Raspberry Pi Zero 2 W                                             | 1    | 200,00             |
 | EL012   | Placa de Extensão T GPIO para Raspberry Pi + Cabo 40 Pinos - Azul | 1    | 25,00              |
 | EL013   | Acelerômetro e Giroscópio 3 Eixos 6 DOF MPU-6050 - GY-521         | 1    | 30,00              |
-| EL014   | Conversor de Nível Lógico 3,3-5V Bidirecional 8 Canais            | 1    | 29,95 (17,95 + 12) |
 | **Total estimado** | | | **400,95** |
 
 
