@@ -40,14 +40,14 @@
 
 | Código | Utilitários e Peças de Montagem | Quantidade | Unidade | Local Armazenado     | Status       | Observações   |
 |--------|--------------------------|------------|---------|-------|---------|--------|
+| UT012  | Alicate de Precisão             | 1         | unid.   | Caixa de Ferramentas | ✅ Disponível |                |
+| UT006  | Filamento PLA 3mm (1kg)         | 1         | rolo    | -   | ✅ Disponível |                |
+| UT014  | Linha de Pesca Trançada (300 m) | 1         | rolo    | -   | ✅ Disponível |                      |
 | UT001  | 8mmx8cm Parafuso                | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT002  | 8mmx4cm Parafuso               | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT003  | 8mmx6cm Parafuso               | 10        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT004  | 3mmx2cm Parafuso               | 40        | unid.   | -         | ❌ Fora de Estoque |                      |
 | UT005  | Cavilhas 3mmx2cm               | 50        | unid.   | -         | ❌ Fora de Estoque |    Para substituir o item UT004                  |
-| UT006  | Filamento PLA 3mm (1kg)         | 1         | rolo    | -   | ✅ Disponível |                |
-| UT012  | Alicate de Precisão             | 1         | unid.   | Caixa de Ferramentas | ✅ Disponível |                |
-| UT014  | Linha de Pesca Trançada (300 m) | 1         | rolo    | -   | ✅ Disponível |                      |
 | UT007  | Parafusos M8 (3 tipos)          | 0         | kit     | -   | ❌ Fora de estoque |                        |
 | UT008  | Parafusos M3 x 20mm (kit)       | 0         | kit     | -   | ❌ Fora de estoque |                    |
 | UT009  | Super Bonder Loctite            | 0         | unid.   | -   | ❌ Fora de estoque |                           |
