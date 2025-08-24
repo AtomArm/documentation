@@ -14,3 +14,4 @@
 | UT003  | Parafuso 8mm x 6cm                     | 10   | unid.   | -                                | ❌ Fora de estoque  |
 | UT004  | Parafuso 3mm x 2cm                     | 40   | unid.   | -                                | ❌ Fora de estoque  |
 | UT005  | Cavilhas 3mm x 2cm                     | 50   | unid.   | Para substituir o item UT004     | ❌ Fora de estoque  |
+
