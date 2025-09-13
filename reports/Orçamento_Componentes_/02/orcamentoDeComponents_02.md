@@ -33,7 +33,9 @@
 - **Conversores de Nível Lógico:** Imprescindíveis para interface segura entre dispositivos de 3.3V e 5V.
 - **Raspberry Pi Zero 2 W:** Central de visão computacional leve ou servidor para integração dos módulos.
 - **Placa de Expansão T-GPIO:** Facilita o acesso a múltiplos pinos GPIO do Pi Zero 2 W.
-- **MPU-6050 (Acelerômetro/Giroscópio):** Fornece feedback de posição/orientação, útil para controle refinado do antebraço.
+
+- **[MPU-6050 (Acelerômetro/Giroscópio):](https://www.eletrogate.com/acelerometro-e-giroscopio-3-eixos-6-dof-mpu-6050-gy-521?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gad_source=1&gad_campaignid=22470016551&gclid=Cj0KCQjwrJTGBhCbARIsANFBfgswCtRoGtz3MJUM4U0l55GYhUm1dwFukuGPPNdx__6k4QBRdx7NSHIaAqOBEALw_wcB)** Fornece feedback de posição/orientação, útil para controle refinado do antebraço.
+
 
 ---
 
