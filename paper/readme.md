@@ -4,6 +4,7 @@ This folder contains all files related to the final scientific article.
 
 ## Structure
 
+- `journal-selection.md`: Documentation of the selected journal for article submission (REIC).
 - `main.tex`: Main LaTeX file.
 - `sections/`: Article sections split into separate `.tex` files.
 - `images/`: All figures and diagrams used in the paper.
