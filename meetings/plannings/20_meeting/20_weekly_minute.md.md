@@ -55,7 +55,9 @@ Durante a semana as seguintes tarefas atrasadas foram reforçadas como prioritá
 
 - Carlos Caetano para:
 - - documentar a Reunião #15 
-- - revisar a documentação da reunião #18 e #19.
+- - revisar a documentação da reunião #18.
+- - revisar a documentação da reunião #19.
+- - revisar a documentação da reunião #20.
 
 - Lucas Telles:
 - - realizar pesquisa contextualizadora
